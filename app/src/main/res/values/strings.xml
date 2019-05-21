@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chatter Box</string>
+    <string name="sign_out">Sign Out</string>
+
+    <string name="dummy_content">Chatter Box</string>
+    <string name="todo">TODO</string>
+    <string name="message">Message</string>
+    <string name="name">Name</string>
+    <string name="your_name">Your name</string>
+    <string name="appname">Chatter Box</string>
+    <string name="enter_the_otp_here">Enter the OTP here</string>
+    <string name="login">Login</string>
+    <string name="fill_otp">Fill OTP</string>
+    <string name="your_mobile_number">Your Mobile Number</string>
+    <string name="continued">Continue</string>
+    <string name="preference_file_key">MYSP</string>
+    <string name="phone_number">phonenumber</string>
+    <string name="name_user">nameuser</string>
+    <string name="add">add society</string>
+    <string name="delete_society">delete society</string>
+
+</resources>
